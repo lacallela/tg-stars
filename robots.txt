@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lacallela.github.io/tg-stars/sitemap.xml
+Host: https://lacallela.github.io/tg-stars
